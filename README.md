@@ -29,7 +29,7 @@ A single HTML file named `index.html`. It should include:
 ## Tips
 
 * Use HTML5 semantic tags appropriately.
-* Organize content with accessibility in mind.
+* Organize content with accessibility in mind. Use landmarks like `<header>`, `<nav>`, `<main>`, `<section>`, and `<footer>` to help screen readers and assistive technologies navigate your page.
 * Apply basic on-page SEO techniques.
 * Follow clean, readable HTML code structure.
 
